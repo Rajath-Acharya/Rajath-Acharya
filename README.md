@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I am Rajath, currently working as a Software Engineer at Upskillist(https://www.upskillist.com/). I am a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+I am Rajath, currently working as a Software Engineer at Upskillist(https://www.upskillist.com/).
+I am a results-driven software developer with 2.6 years of experience in developing and delivering high-quality software solutions. My expertise lies in full stack development, with a strong focus on React, Typescript, Node and MongoDB. I am passionate about creating efficient and scalable applications that drive business growth and enhance user experiences.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rajath-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajath-acharya-068194135/)]([https://www.linkedin.com/in/ludehsar/](https://www.linkedin.com/in/rajath-acharya-068194135/))
 [![Gmail Badge](https://img.shields.io/badge/-rajath365@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajath365@gmail.com)](mailto:rajath365@gmail.com)
