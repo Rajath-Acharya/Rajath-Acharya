@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am Rajath, a passionate software developer with a focus on full stack web development.
-I am a results-driven software developer with 2.6 years of experience in developing and delivering high-quality software solutions. My expertise lies in full stack development, with a strong focus on React, Typescript, Node and MongoDB. I am passionate about creating efficient and scalable applications that drive business growth and enhance user experiences.
+I am a results-driven software developer with 2.6 years of experience in developing and delivering high-quality software solutions. I am passionate about creating efficient and scalable applications that drive business growth and enhance user experiences.
 
 ### 🔭 What I do
 
