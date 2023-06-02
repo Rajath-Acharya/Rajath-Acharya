@@ -23,7 +23,7 @@ I am a results-driven software developer with 2.6 years of experience in develop
 - [![Linkedin Badge](https://img.shields.io/badge/-Rajath-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajath-acharya-068194135/)]([https://www.linkedin.com/in/ludehsar/](https://www.linkedin.com/in/rajath-acharya-068194135/))
 - [![Gmail Badge](https://img.shields.io/badge/-rajath365@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajath365@gmail.com)](mailto:rajath365@gmail.com)
 
-## ⚡ Technologies
+## ⚡ Technologies 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
