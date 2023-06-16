@@ -17,6 +17,12 @@ I am a results-driven software developer with 2.6 years of experience in develop
 - Continuously learning and improving my skills in web development.
 - Exploring new technologies and frameworks to enhance my skillset.
 - Continuously expanding my knowledge and staying up-to-date with the latest trends and advancements.
+  
+### ✨ What am I working on currently?
+
+- Building a slack clone using below technologies,
+- Front End: React, Typescript, Apollo Client
+- Back End: Node, Express, GraphQL, PostgreSQL, Socket.io
 
 ### 📫 Get in touch
 
