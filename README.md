@@ -21,8 +21,8 @@ I am a results-driven software developer with 2.6 years of experience in develop
 ### ✨ What am I working on currently?
 
 - Building a slack clone using below technologies,
-- Front End: React, Typescript, Apollo Client
-- Back End: Node, Express, GraphQL, PostgreSQL, Socket.io
+- Front End: React, Typescript, Tailwind, React Query
+- Back End: Node, Express, PostgreSQL, Socket.io, AWS S3
 
 ### 📫 Get in touch
 
