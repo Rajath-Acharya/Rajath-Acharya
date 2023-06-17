@@ -20,7 +20,10 @@ I am a results-driven software developer with 2.6 years of experience in develop
   
 ### ✨ What am I working on currently?
 
-- Building a slack clone using below technologies using React.js, Typescript, Tailwind, Next.js, PostgreSQL, Sequelize, Web Socket
+- Building a web application which is similar to slack using t3 stack.
+- Frontend/Backend: Next.js, NextAuth, Typescript, Tailwind CSS, tRPC
+- Database: PostgreSQL
+- ORM: Prisma
 
 ### 📫 Get in touch
 
