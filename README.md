@@ -20,7 +20,7 @@ I am a results-driven software developer with 2.6 years of experience in develop
   
 ### ✨ What am I working on currently?
 
-- Building a web application which is similar to slack using t3 stack.
+- Building a web application similar to slack using t3 stack.
 - Frontend/Backend: Next.js, NextAuth, Typescript, Tailwind CSS, tRPC
 - Database: PostgreSQL
 - ORM: Prisma
