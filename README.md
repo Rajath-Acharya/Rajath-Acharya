@@ -24,7 +24,6 @@ I am a results-driven software developer with 2.6 years of experience in develop
 - Frontend/Backend: Next.js, NextAuth, Typescript, Tailwind CSS, tRPC
 - Database: PostgreSQL
 - ORM: Prisma
-- Additional: Nodemailer
 
 ### 📫 Get in touch
 
