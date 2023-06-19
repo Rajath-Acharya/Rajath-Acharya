@@ -8,7 +8,6 @@ I am passionate about creating efficient and scalable applications that drive bu
 
 - I have a strong foundation in software development principles, algorithms, and data structures.
 - I enjoy working on both the frontend and backend, with expertise in frontend development.
-- I am skilled in using modern UI frameworks and libraries such as React, Vue and Angular. 
 - I actively participate in code reviews, ensuring code quality and adherence to best practices.
 - I am experienced in collaborating with cross-functional teams, including designers, product managers, and QA engineers, to deliver high-   quality software solutions.
 - I have a deep understanding of agile methodologies and version control systems, such as Git.
