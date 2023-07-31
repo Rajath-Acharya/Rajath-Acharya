@@ -20,10 +20,9 @@ I am passionate about creating efficient and scalable applications that drive bu
   
 ### ✨ What am I working on currently?
 
-- Building a web application similar to slack using t3 stack.
-- Frontend/Backend: Next.js, NextAuth, Typescript, Tailwind CSS, tRPC
-- Database: PostgreSQL
-- ORM: Prisma
+- Building a web application (PWA) for developers. The idea is combining features of reddit and dev.to
+- Frontend: Next.js, Typescript, Tailwind CSS
+- Backend: GraphQL, TypeORM, PostgreSQL
 
 ### 📫 Get in touch
 
