@@ -20,9 +20,9 @@ I am passionate about creating efficient and scalable applications that drive bu
   
 ### ✨ What am I working on currently?
 
-- Building a web application (PWA) for developers. The idea is combining features of reddit and dev.to
-- Frontend: Next.js, Typescript, Tailwind CSS
-- Backend: GraphQL, TypeORM, PostgreSQL
+- Building a web application (PWA) for developers 
+- Frontend: Next.js, Typescript, Tailwind CSS, Shadcn
+- Backend: REST, Go, Gin, TypeORM, PostgreSQL
 
 ### 📫 Get in touch
 
