@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 I am Rajath, a passionate software developer with a focus on full stack web development. 
-I am a results-driven software developer with 3 years of experience in developing and delivering high-quality software solutions.
+I am a results-driven software developer with 4.6 years of experience in developing and delivering high-quality software solutions.
 I am passionate about creating efficient and scalable applications that drive business growth and enhance user experiences.
 
 ### 🔭 What I do
@@ -9,7 +9,7 @@ I am passionate about creating efficient and scalable applications that drive bu
 - I have a strong foundation in software development principles, algorithms, and data structures.
 - I enjoy working on both the frontend and backend, with expertise in frontend development.
 - I actively participate in code reviews, ensuring code quality and adherence to best practices.
-- I am experienced in collaborating with cross-functional teams, including designers, product managers, and QA engineers, to deliver high-   quality software solutions.
+- I am experienced in collaborating with cross-functional teams, including designers, product managers, and QA engineers, to deliver high-quality software solutions.
 - I have a deep understanding of agile methodologies and version control systems, such as Git.
 
 ### 🌱 My goals
@@ -17,12 +17,6 @@ I am passionate about creating efficient and scalable applications that drive bu
 - Continuously learning and improving my skills in web development.
 - Exploring new technologies and frameworks to enhance my skillset.
 - Continuously expanding my knowledge and staying up-to-date with the latest trends and advancements.
-  
-### ✨ What am I working on currently?
-
-- Building a web application (PWA) for developers 
-- Frontend: Next.js, Typescript, Tailwind CSS, Shadcn
-- Backend: REST, Go, Gin, TypeORM, PostgreSQL
 
 ### 📫 Get in touch
 
